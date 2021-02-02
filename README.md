@@ -1,5 +1,7 @@
 #### React Native Drag And Drop
 
+![alt video](https://i.imgur.com/kOvdB6b.mp4)
+
 * Pan Responder - https://reactnative.dev/docs/panresponder
 
 * PanResponder reconciles several touches into a single gesture. It makes single-touch gestures resilient to extra touches, and can be used to recognize basic multi-touch gestures.
@@ -72,6 +74,6 @@ const ExampleComponent = () => {
 };
 ```
 
-* window.requestAnimationFrame
+* Window.requestAnimationFrame()
 
 The window.requestAnimationFrame() method tells the browser that you wish to perform an animation and requests that the browser calls a specified function to update an animation before the next repaint. The method takes a callback as an argument to be invoked before the repaint. https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
