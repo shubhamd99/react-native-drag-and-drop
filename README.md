@@ -1,6 +1,6 @@
 #### React Native Drag And Drop
 
-![alt video](https://i.imgur.com/kOvdB6b.mp4)
+[![Watch the video](https://i.imgur.com/WEoIzr8.png)](https://i.imgur.com/kOvdB6b.mp4)
 
 * Pan Responder - https://reactnative.dev/docs/panresponder
 
